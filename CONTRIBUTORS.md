@@ -9,6 +9,9 @@ Thanks for all your contributions :heart: :octocat:
 
 | Github username      | Pull Request           | Status  |
 | ------------- |:-------------:| -----:|
+| [Molex](https://github.com/molex)   | [Issue#90](https://github.com/molex/Code-Sleep-Python/tree/Issue%2390) | Pending |
+| [Molex](https://github.com/molex)   | [Issue#110](https://github.com/molex/Code-Sleep-Python/tree/Issue-%23110) | Merged |
+| [Molex](https://github.com/molex)   | [Issue#125](https://github.com/molex/Code-Sleep-Python/tree/issue%23125) | Merged |
 
 
 #### Hacktoberfest
